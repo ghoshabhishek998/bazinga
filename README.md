@@ -27,7 +27,7 @@ DAX (Data Analysis Expressions) for calculated measures and insights.
 ## How to Use
 Download and open the .pbix file in Power BI Desktop.
 
-Explore various report pages and interactive charts.
+Explore the report and various interactive charts.
 
 Apply filters to gain deeper insights into specific data points.
 

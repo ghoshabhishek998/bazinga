@@ -1,15 +1,15 @@
 ##
-#SEOUL BIKE DEMAND PREDICTION
+# SEOUL BIKE DEMAND PREDICTION
 
 ##
-Overview
+## Overview
 
 
 This repository contains a Jupyter Notebook for analyzing the demand for bike rentals in Seoul. 
 The dataset explores factors affecting bike demand, such as weather conditions, holidays, and seasonal variations.
 
 ##
-Dataset
+## Dataset
 
 The dataset includes:
 
@@ -26,7 +26,7 @@ Holiday indicators
 Bike rental counts
 
 ##
-Objectives
+## Objectives
 
 Understand patterns in bike rentals
 
@@ -37,7 +37,7 @@ Use data visualization for insights
 Develop predictive models for bike demand
 
 ##
-Results
+## Results
 
 Exploratory Data Analysis (EDA) to uncover patterns
 
